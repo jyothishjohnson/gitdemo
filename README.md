@@ -12,3 +12,5 @@ ssh-keygen
 new change
 
 jyothish
+
+deployed pub key
